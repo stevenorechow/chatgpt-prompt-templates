@@ -30,3 +30,13 @@ Fix grammar errors in the text
 Contributed by Tony Dinh
 
 --------------------
+
+## Optimized Title Tag & Meta Description
+
+Craft compelling metadata based on a single target keyword to create an optimized search result on Google that will capture attention and drive clicks.
+
+> Act as a highly proficient SEO and conversion copywriting expert. Based on the keyword "{{your target keyword here}}", craft a compelling title tag and meta description for an optimized search result on Google that will capture attention and drive clicks.
+
+> The title tag must be 60 characters or less and the meta description must be 160 characters or less. The title tag and the meta description must both include the provided keyword in a natural way have semantically relevant content to support it.
+
+Contributed by twitter.com/steventhemaker
